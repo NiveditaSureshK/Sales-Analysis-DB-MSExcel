@@ -38,10 +38,11 @@ Country, years, and quarters
 
 - Utilized Power Query to extract and transform the data, then transferred the data to Power Pivot for further analysis.
 - Power Pivot is used to store our data for further exploration in the future, if the number of rows increases into the millions.
-- Administered OFFSET and COUNTA functions to summarize and project monthly monetary inflows and outflows.
+- Implemented OFFSET and COUNTA functions to prepare reports that interpret transaction, order, COGS, revenue, and net profit on a monthly and quarterly basis, by sales channel, by sales regions and by item types sold over time.
 
 ## Overview
 
+![p1](https://user-images.githubusercontent.com/71536311/192094767-c4bad618-1563-4252-8906-9f30ac96795a.gif)
 
 
 
