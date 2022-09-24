@@ -9,18 +9,19 @@ A historical dataset with 1000,000 rows and 13 columns spanning 8 years. Data is
 ## Analyses derived from the dataset
 - Analysis of orders shipped within seven days, within one month, and after 30 days of placing the order
 
-  <img width="120" alt="orderanalysis" src="https://user-images.githubusercontent.com/71536311/192024449-3184c7d2-8dbc-46bd-b531-e8c9f68d9ee3.png">
+   <p align="center"><img width="120" alt="orderanalysis" src="https://user-images.githubusercontent.com/71536311/192024449-3184c7d2-8dbc-46bd-b531-e8c9f68d9ee3.png">
+</p>
 
 - Linked transaction, order, COGS, revenue, and net profit options buttons to the charts. If an option is selected on a chart, the selected option is displayed on all charts except those with shipping intervals.
 
-   <p align="center"><img width="262" alt="toggleoptionbuttons" src="https://user-images.githubusercontent.com/71536311/192081379-3573aef2-3a80-4a09-b114-2c58a961a156.png">   
-  <img width="405" alt="profitmonquart" src="https://user-images.githubusercontent.com/71536311/192081388-68e4e70c-b8a3-4fe6-9e1c-84000ad8031f.png">   
+   <p align="center"><img width="262" alt="toggleoptionbuttons" src="https://user-images.githubusercontent.com/71536311/192081379-3573aef2-3a80-4a09-b114-2c58a961a156.png"></p>   
+  <p align="center"><img width="405" alt="profitmonquart" src="https://user-images.githubusercontent.com/71536311/192081388-68e4e70c-b8a3-4fe6-9e1c-84000ad8031f.png"> </p>     
   
-  <img width="371" alt="profitsaleschannel" src="https://user-images.githubusercontent.com/71536311/192081392-66d58382-98e2-4966-8438-ce91aa03abbb.png">   
+  <p align="center"><img width="371" alt="profitsaleschannel" src="https://user-images.githubusercontent.com/71536311/192081392-66d58382-98e2-4966-8438-ce91aa03abbb.png"> </p>     
   
-  <img width="365" alt="profititemtypes" src="https://user-images.githubusercontent.com/71536311/192081397-1718cac7-4655-4a7a-9cb2-5a9ca4458681.png">   
+  <p align="center"><img width="365" alt="profititemtypes" src="https://user-images.githubusercontent.com/71536311/192081397-1718cac7-4655-4a7a-9cb2-5a9ca4458681.png"></p>     
   
-  <img width="400" alt="profitsalesregions" src="https://user-images.githubusercontent.com/71536311/192081402-dbb355b9-2125-45ba-aca8-9fb0e932b257.png"></p>
+  <p align="center"><img width="400" alt="profitsalesregions" src="https://user-images.githubusercontent.com/71536311/192081402-dbb355b9-2125-45ba-aca8-9fb0e932b257.png"></p>
 
 
 
