@@ -1,15 +1,15 @@
 # Sales-Analysis-Dashboard
 
 ## Problem Statement
-Assessed the historical shipping data of a company that sells products and ships them to its customers' destinations to determine its future shipping methods.
+An analysis of the historical data of a company which sells products and ships them to its customers' destinations was conducted in order to determine the future cost effective shipping methods and approaches.
 
 ## Dataset Used
-In this dashboard, data is pulled from income and expense statements from January 2022 to July 2022, represented in 345 rows and 10 columns.
+A historical dataset with 1000,000 rows and 13 columns spanning 8 years. Data is stored in a single table.
 
 ## Analyses derived from the dataset
-- Hierarchial representation of various streams of income and expenditure categories
+- Analysis of orders shipped within seven days, within one month, and after 30 days of placing the order
 
-   <img width="662" alt="expensesbycategories" src="https://user-images.githubusercontent.com/71536311/191718464-f97baaae-d905-4e73-bc1e-ca5744271f6c.png">
+  <img width="120" alt="orderanalysis" src="https://user-images.githubusercontent.com/71536311/192024449-3184c7d2-8dbc-46bd-b531-e8c9f68d9ee3.png">
 
 - A summary of monetary inflows and outflows
 
