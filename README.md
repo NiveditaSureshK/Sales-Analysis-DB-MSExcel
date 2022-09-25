@@ -42,6 +42,7 @@ Country, years, and quarters
 
 ## Overview
 ![p1](https://user-images.githubusercontent.com/71536311/192125618-91c37c0c-c7f4-4c01-972d-06afb166e20b.gif)
+![p2](https://user-images.githubusercontent.com/71536311/192128415-eff3e519-397d-4596-a6ef-84ba9f335f8d.gif)
 
 
 
