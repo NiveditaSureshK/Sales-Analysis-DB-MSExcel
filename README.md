@@ -41,7 +41,7 @@ Country, years, and quarters
 - Implemented OFFSET and COUNTA functions to prepare reports that interpret transaction, order, COGS, revenue, and net profit on a monthly and quarterly basis, by sales channel, by sales regions and by item types sold over time.
 
 ## Overview
-![p1](https://user-images.githubusercontent.com/71536311/192125618-91c37c0c-c7f4-4c01-972d-06afb166e20b.gif)
+![p1](https://user-images.githubusercontent.com/71536311/192129988-152f8048-77e3-43bb-90a6-ab8955581e09.gif)
 ![p2](https://user-images.githubusercontent.com/71536311/192128415-eff3e519-397d-4596-a6ef-84ba9f335f8d.gif)
 
 
