@@ -43,6 +43,9 @@ Country, years, and quarters
 ## Overview
 
 ![p1](https://user-images.githubusercontent.com/71536311/192094767-c4bad618-1563-4252-8906-9f30ac96795a.gif)
+![p2](https://user-images.githubusercontent.com/71536311/192124063-e726f72a-4e56-4b98-a6bd-7d498c431f86.gif)
+![p3](https://user-images.githubusercontent.com/71536311/192124197-1f15691e-f9f1-4ba4-92f8-8b7db4945506.gif)
+![p4](https://user-images.githubusercontent.com/71536311/192125330-790335f4-96ca-4a23-a086-e2864533c4ed.gif)
 
 
 
