@@ -7,7 +7,7 @@ An analysis of the historical data of a company which sells products and ships t
 A historical dataset with 1000,000 rows and 13 columns spanning 8 years. Data is stored in a single table.
 
 ## Analyses derived from the dataset
-- Analysis of orders shipped within seven days, within one month, and after 30 days of placing the order
+- Analysis of orders shipped within seven days, within one month, and after 30 days of placing the order.
 
    <p align="center"><img width="120" alt="orderanalysis" src="https://user-images.githubusercontent.com/71536311/192024449-3184c7d2-8dbc-46bd-b531-e8c9f68d9ee3.png">
 </p>
@@ -23,7 +23,7 @@ A historical dataset with 1000,000 rows and 13 columns spanning 8 years. Data is
   
   <p align="center"><img width="400" alt="profitsalesregions" src="https://user-images.githubusercontent.com/71536311/192081402-dbb355b9-2125-45ba-aca8-9fb0e932b257.png"></p>
 
-- Easy-to-read cards visualize important KPIs for rapid decision-making
+- Easy-to-read cards visualize important KPIs for rapid decision-making.
 
    <p align="center"><img width="811" alt="kpis" src="https://user-images.githubusercontent.com/71536311/192081558-a958c702-3901-494b-a04a-321f600b2a63.png"></p>
 
